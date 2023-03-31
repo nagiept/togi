@@ -1,0 +1,5 @@
+name=‰¾
+image=image.jpg
+sample=
+author=„Iagi
+web=https://nagiept.github.io
